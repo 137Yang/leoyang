@@ -1,0 +1,14 @@
+---
+layout:          post
+title:            "JavaScript 20 years"
+author:          Hux
+header - style:  text
+catalog:         true
+tags:
+    - Web
+    - JavaScript
+---
+
+> xuebi [JavaScript 20 years](https://zhuanlan.zhihu.com/373065151).
+
+- yang liu facebook
