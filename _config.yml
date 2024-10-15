@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yang Leo / leoyang's Blog"
+title                    : "leoyang's Homepage"
 title_separator          : "-"
 name                     : &name "Yang Leo"
 description              : &description "studying condensed matter physics"
@@ -21,7 +21,7 @@ repository               : "137Yang/leoyang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headimag.jpeg"
   name             : "Yang Leo"
   pronouns         : # example: "she/her"  
   bio              : "studying condensed matter physics"
