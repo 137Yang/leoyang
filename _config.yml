@@ -12,7 +12,7 @@ title                    : "Yang Leo / leoyang's Blog"
 title_separator          : "-"
 name                     : &name "Yang Leo"
 description              : &description "studying condensed matter physics"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.leoyang.icu # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "137Yang/leoyang.github.io"
 
@@ -22,12 +22,12 @@ repository               : "137Yang/leoyang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yang Leo"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "studying condensed matter physics"
   location         : "Shanghai"
   employer         : "East China Normal University"
-  uri              : # URL
+  uri              : "www.leoyang.icu"
   email            : "liuyang@stu.ecnu.edu.cn" 
 
   # Academic websites
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : LeoGalaxy # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -75,12 +75,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+  #books:
+    #title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  #conferences:
+    #title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
