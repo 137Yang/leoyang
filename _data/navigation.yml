@@ -9,8 +9,9 @@ main:
     # url: /publications/
     url: https://scholar.google.com/citations?user=qE5357gAAAAJ&hl=en&oi=sra
     # url: <google scholar>
-      #- title: "Talks"
-      #url: /talks/    
+
+  - title: "Talks"
+    url: /talks/    
 
   - title: "Study Notes"
     url: /studynotes/    
